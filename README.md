@@ -174,6 +174,6 @@ rocket-simulation/
 
 # 👨‍💻 Author
 
-Ayush Gandhi
+Ayush Gandhi & Mathieu Latendresse
 
 Programming + physics simulation project combining aerospace concepts with numerical methods.
